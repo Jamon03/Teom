@@ -1,0 +1,35 @@
+2026-03-02 13:33:55,386 [INFO] __main__: 🍽 MenuBot Restoran ishga tushmoqda...
+2026-03-02 13:33:55,387 [INFO] aiogram.dispatcher: Start polling
+2026-03-02 13:33:55,841 [INFO] aiogram.dispatcher: Run polling for bot @my12345687_bot id=8390934739 - 'MenuBot'
+2026-03-02 13:34:15,260 [INFO] aiogram.event: Update id=743896178 is handled. Duration 372 ms by bot id=8390934739
+2026-03-02 13:34:18,493 [INFO] aiogram.event: Update id=743896179 is handled. Duration 158 ms by bot id=8390934739
+2026-03-02 13:34:24,575 [INFO] aiogram.event: Update id=743896180 is handled. Duration 265 ms by bot id=8390934739
+2026-03-02 13:34:26,010 [INFO] aiogram.event: Update id=743896181 is handled. Duration 146 ms by bot id=8390934739
+2026-03-02 13:34:27,852 [INFO] aiogram.event: Update id=743896182 is handled. Duration 364 ms by bot id=8390934739
+2026-03-02 13:34:29,276 [INFO] aiogram.event: Update id=743896183 is handled. Duration 394 ms by bot id=8390934739
+2026-03-02 13:34:30,723 [INFO] aiogram.event: Update id=743896184 is handled. Duration 263 ms by bot id=8390934739
+2026-03-02 13:34:32,020 [INFO] aiogram.event: Update id=743896185 is handled. Duration 345 ms by bot id=8390934739
+2026-03-02 13:34:44,550 [INFO] aiogram.event: Update id=743896186 is handled. Duration 186 ms by bot id=8390934739
+2026-03-02 13:34:45,807 [INFO] aiogram.event: Update id=743896187 is handled. Duration 137 ms by bot id=8390934739
+2026-03-02 13:34:49,774 [INFO] aiogram.event: Update id=743896188 is handled. Duration 256 ms by bot id=8390934739
+2026-03-02 13:34:50,870 [INFO] aiogram.event: Update id=743896189 is handled. Duration 241 ms by bot id=8390934739
+2026-03-02 13:36:08,832 [INFO] aiogram.event: Update id=743896190 is handled. Duration 223 ms by bot id=8390934739
+2026-03-02 13:36:09,011 [INFO] aiogram.event: Update id=743896191 is handled. Duration 151 ms by bot id=8390934739
+2026-03-02 13:36:16,816 [INFO] aiogram.event: Update id=743896192 is handled. Duration 334 ms by bot id=8390934739
+2026-03-02 13:36:27,553 [INFO] aiogram.event: Update id=743896193 is handled. Duration 129 ms by bot id=8390934739
+2026-03-02 13:36:29,612 [INFO] aiogram.event: Update id=743896194 is handled. Duration 283 ms by bot id=8390934739
+2026-03-02 13:36:36,460 [INFO] aiogram.event: Update id=743896195 is handled. Duration 157 ms by bot id=8390934739
+2026-03-02 13:36:38,677 [INFO] aiogram.event: Update id=743896196 is handled. Duration 219 ms by bot id=8390934739
+2026-03-02 13:36:44,765 [INFO] aiogram.event: Update id=743896197 is handled. Duration 398 ms by bot id=8390934739
+2026-03-02 13:38:35,588 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] The network connection was aborted by the local system
+2026-03-02 13:38:35,612 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8390934739)
+2026-03-02 13:38:36,625 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-03-02 13:38:36,625 [WARNING] aiogram.dispatcher: Sleep for 1.379456 seconds and try again... (tryings = 1, bot id = 8390934739)
+2026-03-02 13:38:38,008 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-03-02 13:38:38,009 [WARNING] aiogram.dispatcher: Sleep for 1.855429 seconds and try again... (tryings = 2, bot id = 8390934739)
+2026-03-02 13:38:50,189 [INFO] aiogram.dispatcher: Connection established (tryings = 3, bot id = 8390934739)
+2026-03-02 13:47:08,641 [INFO] aiogram.dispatcher: Polling stopped
+2026-03-02 13:47:08,643 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 13:47:08,643 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8390934739)
+2026-03-02 13:47:08,819 [INFO] aiogram.dispatcher: Polling stopped for bot @my12345687_bot id=8390934739 - 'MenuBot'
+2026-03-02 13:47:08,820 [INFO] __main__: MenuBot to'xtatildi
