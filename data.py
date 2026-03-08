@@ -31,8 +31,8 @@ def standart_kategoriyalar() -> Dict[str, Any]:
             "buyurtma_qabul": "✅ Buyurtmangiz qabul qilindi!",
             "admin_xush": "👨‍💼 Admin panelga xush kelibsiz!",
             "aloqa_malumot": "📞 <b>Biz bilan bog'lanish:</b>\n\n"
-                             "📱 Telefon: +998 99 022 36 33\n"
-                             "📷 Instagram: @_karimqulotachoyxonasi_\n"
+                             "📱 Telefon: +998 91 802 86 06\n"
+                             "📷 Instagram: @Sae_byok\n"
                              "📍 Manzil: Guliston shahar, Sayxun ko'chasi 3A\n"
                              "🕐 Ish vaqti: 08:00 — 23:00",
             "haqida_malumot": "🏪 <b>Karimqul Ota Choyhonasi haqida:</b>\n\n"
@@ -620,4 +620,5 @@ def delete_product(category_key: str, product_key: str) -> bool:
 
 def narx_formatlash(narx: int) -> str:
     """Narxni formatlash: 25000 -> '25 000'"""
+
     return f"{narx:,}".replace(",", " ")
